@@ -1,7 +1,7 @@
 # Nexus-FrontEnd-Task1
 
 
-# Study Productivity Tool - Landing Page named Radarr
+# Study Productivity Tool - Landing Page named Radar.
 
 ## Project Overview
 A responsive landing page for a study productivity app. This tool is designed to solve time management and organization challenges by providing a centralized hub for schedules, tasks, and lecture notes. Built as Task 1 for the Nexus Fellowship.
